@@ -108,3 +108,4 @@ friends: [
         href: "https://analytics.google.com/analytics"
     }
 ]
+theme: jekyll-theme-slate
